@@ -10,12 +10,14 @@ I've shipped products that hundreds of users interact with, mentored juniors in 
 
 ## ⚙️ Current Experiments
 
-- 🧱 Creating ** Anki like platform for devs** (auth, payments, dashboards) — so devs can remember stuff.
+- 🧱 Creating ** Anki like platform for devs** (auth, payments, dashboards) — so devs can remember stuff. 
 - 🤖 Building **AI agents** that can hold video calls, filter calendars, and speak like humans.
 - 🌐 Exploring **Web3** and **autonomous automation** tools for self-operating platforms.
 
 ---
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 🛠️ Projects That I have worked on
 
 ### 🎯 [College Hunt](https://github.com/ChandanYadav13/College-Hunt)
@@ -49,11 +51,6 @@ I've shipped products that hundreds of users interact with, mentored juniors in 
 | Database     | MongoDB, PostgreSQL, Redis, Prisma  |
 | DevOps       | Git, GitHub, Docker                 |
 | Buzzwords I Actually Understand | AI Agents, Web3, LLM APIs, Real-time Systems |
-
----
-## 😂 Random Meme
-<img src="https://random-memer-csh9.onrender.com" title="Meme" alt="Refresh to see a new meme" />
-
 
 ---
 
