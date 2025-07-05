@@ -2,9 +2,9 @@
 
 > *“You don't need permission to build the future.”*
 
-I'm an **Engineering undergrad at MNNIT Allahabad**, but my world revolves around building tech that *works* — whether it's an event-scale leaderboard, a messaging system with live encryption, or a bot that speaks for you on video.
+I'm an **Engineering undergrad at MNNIT Allahabad**, but my world revolves around building tech that *works* 
 
-I've shipped products that hundreds of users interact with, mentored juniors in my coding club, and contributed to startup events that needed reliable tech under pressure. My work lives at the intersection of **real-time systems**, **open-source tooling**, and **AI-powered automation**.
+I've shipped products that hundreds of users interact with, and contributed to startup events that needed reliable tech under pressure. My work lives at the intersection of **real-time systems**, **open-source tooling**, and **AI-powered automation**.
 
 ---
 
