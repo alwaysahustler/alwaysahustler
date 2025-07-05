@@ -51,7 +51,9 @@ I've shipped products that hundreds of users interact with, mentored juniors in 
 | Buzzwords I Actually Understand | AI Agents, Web3, LLM APIs, Real-time Systems |
 
 ---
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+## 😂 Random Meme
+<img src="https://random-memer-csh9.onrender.com" title="Meme" alt="Refresh to see a new meme" />
+
 
 ---
 
