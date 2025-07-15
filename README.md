@@ -20,7 +20,7 @@ I've shipped products that hundreds of users interact with, and contributed to s
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 🛠️ Projects That I have worked on
 
-### 🎯 [College Hunt](https://github.com/ChandanYadav13/College-Hunt)
+### 🎯 [College Hunt](https://github.com/abhigit-saha/MNNIT-GO)
 > Gamified QR-based treasure hunt with real-time leaderboards and voucher redemptions.
 
 - Redis-backed leaderboard with <500ms latency at peak
@@ -33,12 +33,6 @@ I've shipped products that hundreds of users interact with, and contributed to s
 - Modular monorepo structure using `app/` and `module/`
 - tRPC + WebRTC + Stream SDK = magical performance
 - Designed for scalability and plug-in AI behaviors
-
-### 🔒 [Secure P2P Messaging](https://github.com/ChandanYadav13/Secure-Anonymous-Messaging)
-> Anonymous chats with encryption, JWT auth, and an auto-responder bot.
-
-- 80%+ queries handled by an integrated bot
-- Supports 50+ concurrent encrypted sessions
 
 ---
 
